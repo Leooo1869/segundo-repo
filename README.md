@@ -28,4 +28,5 @@ Existen dos tipos de llaves = Privada y pública
 3. Entre al repo 
 
 code . = abrir Visual Studio Code
+
 code README.md = abrir el readme

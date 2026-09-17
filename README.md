@@ -15,6 +15,8 @@ Generar llave ssh: ssh-keygen -t ed25519 -C "your_email@example.com"
 
 clip < ~/.ssh/id_ed25519.pub
 
+cat ~/.ssh/id_ed25519.pub
+
 SSH = Secure Shell
 
 Existen dos tipos de llaves = Privada y pública
